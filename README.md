@@ -2,7 +2,7 @@
 
 > Site de Eventos CLACT em Vue.js agora com Nuxt.js (https://clactbrasil.com.br)
 
-#Dependencias
+# Dependências
 
 - Animate on Scroll (AOS.js)
 - Buefy
